@@ -9,7 +9,7 @@ export function Assignment1() {
     }, []);
 
     const handleButtonClick = () => {
-
+        
     };
 
     return (
